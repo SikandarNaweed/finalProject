@@ -1,0 +1,72 @@
+﻿<html>
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Drug - Drug Interaction</title>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="../CSS/general.css">
+		<link rel="stylesheet" type="text/css" href="../CSS/login.css">
+	</head>
+
+	<body>
+		<nav class="navbar navbar-default">
+			<div class="container-fluid">
+				<div class="navbar-header">
+					<a class="navbar-brand "href="../index.html">Drug - Drug Interaction</a>
+				</div>
+				<ul class="nav navbar-nav">
+					<li><a href="forgetPass.html"><span class="glyphicon glyphicon-lock"></span> Forgot Password</a></li>
+				</ul>
+			</div>
+		</nav>
+		<div class="container-fluid">
+            <div class="row">
+            	<div class="col-ms-4">
+        			<div id="box">
+            			<Header class="text-center">
+                			<h1>Log In</h1>
+                			<p>Enter your Email and Password below.</p><br/><br/>
+            			</Header>
+
+            			<div class="form text-center">
+            				<form>
+                    			<div class="form-group">
+                  					<input type="email" class="form-control" placeholder="Email" id="lemail" name="lemail">
+                    			</div>
+                    			<div class="form-group">
+                   					<input type="password" class="form-control" placeholder="password" id="lpassword" name="lpassword">
+                    			</div>
+                    			<button type="button" id="Loginbtn" class="btn btn-primary" >Login</button>
+                    			<br>
+                    			<label>
+      								<input type="checkbox" checked="checked" name="remember"> Remember me
+    							</label>
+                			</form>   
+            			</div>
+        			</div>
+        		</div>
+            </div>
+       	</div>
+
+		<div class="push"></div>
+		<div class='container alert alert-danger' id="alert" style="width: 40%; display: none;">
+			<strong>Error!</strong><p id="dbMsg"></p>
+		</div>
+
+		<Footer class="container-fluid text-center myfooter">
+			<div class="row">
+				<div class="col-md-6">
+					<h5 class="text-uppercase">Drug - Drug Interaction</h5>
+				</div>
+		</Footer>
+
+		<div class="footer-copyright text-center">
+			<p> © 2019 Copyright:SIKANDAR NAWEED.<br> All rights reserved. </p>
+		</div>
+
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  		<script src="../JS/login.js" type="text/javascript"></script>
+	</body>
+</html>

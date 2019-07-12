@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<title name="drug_details">
+    
+    <Item>
+        <field name="drug_ID">1001</field>
+        <field name="drug_Name">Lepirudin</field>
+        <field name="drug_State">Liquid</field>
+        <field name="drug_Description">Lepirudin is identical to natural hirudin except for substitution of leucine for isoleucine at the N-terminal end of the molecule and the absence of a sulfate group on the tyrosine at position 63. It is produced via yeast cells.</field>
+    </Item>
+    
+    <Item>
+        <field name="drug_ID">1002</field>
+        <field name="drug_Name">Menotropins</field>
+        <field name="drug_State">Liquid</field>
+        <field name="drug_Description">Menotropins contains follicle stimulating hormone (FSH) and luteinizing hormone (LH) purified from the urine of postmenopausal women.  It is used as a fertility medication that is injected either subcutaneously or intramuscularly. It is composed of LH with 2 subunits, alpha = 92 residues, beta = 121 residues and FSH with 2 subunits, alpha = 92 residues, beta=111 residues.</field>
+    </Item>
+        <Item>
+        <field name="drug_ID">1003</field>
+        <field name="drug_Name">Peginterferon alfa-2a</field>
+        <field name="drug_State">Liquid</field>
+        <field name="drug_Description">Peginterferon alfa-2a is a form of recombinant interferon used as part of combination therapy to treat chronic Hepatitis C, an infectious liver disease caused by infection with Hepatitis C Virus (HCV). HCV is a single-stranded RNA virus that is categorized into nine distinct genotypes, with genotype 1 being the most common in the United States, and affecting 72% of all chronic HCV patients [L852]. Treatment options for chronic Hepatitis C have advanced significantly since 2011, with the development of Direct Acting Antivirals (DAAs) resulting in less use of Peginterferon alfa-2a.</field>
+    </Item>
+    
+    <Item>
+        <field name="drug_ID">1004</field>
+        <field name="drug_Name">Sermorelin</field>
+        <field name="drug_State">Liquid</field>
+        <field name="drug_Description">Sermorelin acetate is the acetate salt of an amidated synthetic 29-amino acid peptide (GRF 1-29 NH 2 ) that corresponds to the amino-terminal segment of the naturally occurring human growth hormone-releasing hormone (GHRH or GRF) consisting of 44 amino acid residues</field>
+    </Item>
+    
+    <Item>
+        <field name="drug_ID">1005</field>
+        <field name="drug_Name">Goserelin</field>
+        <field name="drug_State">Solid</field>
+        <field name="drug_Description">Goserelin is a synthetic hormone. In men, it stops the production of the hormone testosterone, which may stimulate the growth of cancer cells. In women, goserelin decreases the production of the hormone estradiol (which may stimulate the growth of cancer cells) to levels similar to a postmenopausal state. When the medication is stopped, hormone levels return to normal.</field>
+    </Item>
+    
+    <Item>
+        <field name="drug_ID">1006</field>
+        <field name="drug_Name">Salmon Calcitonin</field>
+        <field name="drug_State">Liquid</field>
+        <field name="drug_Description">Synthetic peptide, 32 residues long formulated as a nasal spray.</field>
+    </Item>
+    
+    <Item>
+        <field name="drug_ID">1007</field>
+        <field name="drug_Name">Asparaginase Escherichia coli</field>
+        <field name="drug_State">Liquid</field>
+        <field name="drug_Description">Asparaginase derived from _Escherichia coli_ (L-asparagine amidohydrolase, EC 3.5.1.1) is an enzyme responsible for the metabolism of L-asparagine, by catalyzing L-asparagine into L-aspartic acid and ammonia. It also facilitates the production of oxaloacetate which is needed for general cellular metabolism. Asparaginase from _E. coli_ has clinically shown to exhibit antitumor actions in models of leukaemias [A31996, A31997].</field>
+    </Item>
+    
+    <Item>
+        <field name="drug_ID">1008</field>
+        <field name="drug_Name">Antihemophilic factor, human recombinant</field>
+        <field name="drug_State">Solid</field>
+        <field name="drug_Description">Human recombinant antihemophilic factor (AHF) or Factor VIII, 2332 residues, glycosylated, produced by CHO cells</field>
+    </Item>
+    
+    <Item>
+        <field name="drug_ID">1009</field>
+        <field name="drug_Name">Anakinra</field>
+        <field name="drug_State">Liquid</field>
+        <field name="drug_Description">Anakinra is a recombinant, nonglycosylated human interleukin-1 receptor antagonist (IL-1Ra). The difference  between anakinra and the native human IL-1Ra is that anakinra has an extra methionine residue at the amino terminus. It is manufactured by using the E. coli expression system. Anakinra is composed of 153 amino acid residues. FDA approved on November 14, 2001.</field>
+    </Item>
+    
+    <Item>
+        <field name="drug_ID">1010</field>
+        <field name="drug_Name">Gramicidin</field>
+        <field name="drug_State">Solid</field>
+        <field name="drug_Description">Gramcidin D is a heterogeneous mixture of three antibiotic compounds, gramicidins A, B and C, making up 80%, 6%, and 14% respectively all of which are obtained from the soil bacterial species Bacillus brevis and called collectively gramicidin D. Gramcidins are 15 residue peptides with alternating D and L amino acids.</field>
+    </Item>
+    
+    <Item>
+        <field name="drug_ID">1011</field>
+        <field name="drug_Name">Immune Globulin Human</field>
+        <field name="drug_State">Liquid</field>
+        <field name="drug_Description">Intravenous immunoglobulin (IVIg) is a mixture of IgG1 and other antibodies derived from healthy human plasma via Cohn fractionation. The purification process includes cold alcohol fractionation, polyethylene glycol precipitation, and ion exchange chromatography.</field>
+    </Item>
+</title>

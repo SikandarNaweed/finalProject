@@ -1,0 +1,45 @@
+header{
+    position: absolute;
+    top: 27%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+header h1 {
+    color: #039be5;
+    font-size: 46px;
+}
+
+header p {
+    color: #039be5;
+    font-size: 15px;
+    
+}
+
+.form {
+    position: absolute;
+    top: 58%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.form-control{
+    margin: 20px 0;
+    border: 1px solid #0078ff;
+    background: rgba(0, 0, 0, 0);
+}
+
+button {
+    margin-top: 8px;
+    padding: 20px 32px;
+    border: none;
+}
+
+#box {
+	background-color: rgb(228, 228, 228);
+    margin-left: 25%;
+    margin-top: 7%;
+	padding: 260px;
+    width: 51%;
+	display: flex;
+}
